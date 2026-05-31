@@ -1,0 +1,84 @@
+{
+  "group": {
+    "120363423750180715@g.us": {
+      "welcome": {
+        "enabled": true,
+        "text": "Welcome Back @user"
+      },
+      "goodbye": {
+        "enabled": true,
+        "text": "Bye @user"
+      }
+    },
+    "120363403016443146@g.us": {
+      "welcome": {
+        "enabled": true,
+        "text": "*👋 Welcome @user in Marga Enyece*\n\n- *Name:* \n- *Umur:*\n- *Gender:*\n- *Askot:*\n- *Waifu/Husbu:*\n- *Username Tiktok:*\n\n*Nickname (Opsional):*\n- *Name* 「𝐍𝐘𝐂」\n- *Name* 𝖋𝖙 𝙉𝙔𝘾\n- *Name* 𝖋𝖙 𝐍𝐘𝐂​᭄\n\n*Hastag (Diusahakan):*\n- #marganyc\n- #nanimeyushacreator\n\n*SEMOGA BETAH DAN NYAMAN DI NYC YA!!*"
+      },
+      "goodbye": {
+        "enabled": true,
+        "text": "*Sayonara @user 👋*"
+      }
+    },
+    "120363427279917369@g.us": {
+      "welcome": {
+        "enabled": true,
+        "text": "*WELCOME @user TO CE'AN*😉\n\n*INTRO*\n*NAMA*:\n*USIA*:\n*ASKOT*:\n *Waifu/Husbu*:\n*GENDER*:\n*Link Akun Tiktok:*\n*utamakan baca rules biar ga di kick admin😉*\n\n*Semoga betah*😉"
+      },
+      "goodbye": {
+        "enabled": true,
+        "text": "Sayonara @user 👋"
+      }
+    },
+    "120363404660759443@g.us": {
+      "welcome": {
+        "enabled": true,
+        "text": "hii @user\n𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐀𝐔𝐙𝐎𝐑𝐀 𝐂𝐑𝐄𝐀𝐓𝐎𝐑\n\n✦ INTRO CARD ✦\n・Nama:\n・Usia :\n・Askot:\n • Waifu/Husbu:\n・Gender:\n・Link Akun Tiktok:\n\n𝙗𝙖𝙘𝙖 𝙧𝙪𝙡𝙚𝙨 𝙣𝙮𝙖 𝙗𝙞𝙖𝙧 𝙜𝙖 𝙙𝙞 𝙠𝙞𝙘𝙠 𝙖𝙙𝙢𝙞𝙣 𝙮𝙖 𝙜𝙪𝙮𝙨\n\n❃ santai aja guys"
+      },
+      "goodbye": {
+        "enabled": true,
+        "text": "Sayonara @user 👋"
+      }
+    },
+    "120363424597267427@g.us": {
+      "welcome": {
+        "enabled": true,
+        "text": ""
+      }
+    },
+    "120363421837797061@g.us": {
+      "welcome": {
+        "enabled": false,
+        "text": "KyNz.sendVideoAsSticker = async (jid, path, quoted, options = {}) => {\n let buff = Buffer.isBuffer(path) ? path : /^data:.*?\\/.*?;base64,/i.test(path) ? Buffer.from(path.split`,` [1], 'base64') : /^https?:\\/\\//.test(path) ? await (await getBuffer(path)) : fs.existsSync(path) ? fs.readFileSync(path) : Buffer.alloc(0)\n let buffer\n if (options && (options.packname || options.author)) {\n buffer = await writeExifVid(buff, options)\n } else {\n buffer = await videoToWebp(buff)\n }\n\n await KyNz.sendMessage(jid, {\n sticker: {\n url: buffer\n },\n ...options\n }, {\n quoted\n })\n return buffer\n }"
+      }
+    },
+    "120363407119812522@g.us": {
+      "welcome": {
+        "enabled": true,
+        "text": "*WELCOME @user IN NYC*\n- NAMA: \n- UMUR:\n- GENDER:\n- ASKOT:\n- WAIFU/HUSBU:\n- USERNAME TT:\n\n*NOTE:*\n*CN OPSIONAL*\n- *Name* 「𝐍𝐘𝐂」\n- *Name* 𝖋𝖙 𝐍𝐘𝐂᭄\n\n*HASTAG*\n- #marganyc\n- #nycfamily\n\n*Opsional:*\n- #nanimeyushacreator\n\nGunakan .cn <Namalu>\nGunakan .verif <username>\n\n*BETAH BETAH YAW DI ENYECEH*"
+      },
+      "goodbye": {
+        "enabled": true,
+        "text": "Sayonara @user"
+      }
+    },
+    "120363405892572634@g.us": {
+      "welcome": {
+        "enabled": false,
+        "text": "*WELCOME TO MARGA AKATSUKI CREATOR ANIME*\n @user @group\n*MEM BARU INTRO DULU YA*\n \n𝙄𝙉𝙏𝙍𝙊 𝘾𝘼𝙍𝘿\n\n• 𝙉𝘼𝙈𝘼 :\n• 𝙐𝙈𝙐𝙍 :\n• 𝙂𝙀𝙉𝘿𝙀𝙍 :\n• 𝘾𝙃𝘼𝙍 𝙁𝘼𝙑 :\n• 𝘼𝙎𝙆𝙊𝙏 :\n\n[ *SEMOGA KALIAN BETAH DI MARGA INI YA DAN JUGA CN TIKTOK KALIAN NAMA BELAKANG NYA PAKE INI 𝖋𝖙 𝐀𝐂𝐄'𝐀᭄ / 𝐀𝐂𝐄'𝐀࿐ KALO KALIAN GA MAU YAUDAH GAK PAPA JUGA KOK*\n\n𝙎𝙀𝙈𝙊𝙂𝘼 𝙆𝘼𝙇𝙄𝘼𝙉 𝘽𝙀𝙏𝘼𝙃🥳"
+      }
+    },
+    "120363404822646961@g.us": {
+      "welcome": {
+        "enabled": false,
+        "text": "'-vf', 'scale=iw*1.5:ih*1.5:flags=lanczos,eq=contrast=1:saturation=1.7,hqdn3d=1.5:1.5:6:6,unsharp=5:5:0.8:5:5:0.8',\n '-r', '60',\n '-preset', 'faster',\n '-crf', '25',\n '-c:v', 'libx264',\n '-pix_fmt', 'yuv420p',\n '-c:a', 'aac',\n '-b:a', '128k'"
+      }
+    },
+    "120363423012182042@g.us": {
+      "welcome": {
+        "enabled": false,
+        "text": "120363406669279254@newsletter\n120363400100225299@newsletter\n120363425330919846@newsletter"
+      }
+    }
+  }
+}
